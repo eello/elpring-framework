@@ -1,0 +1,12 @@
+[submodule "elpring-di"]
+	path = elpring-di
+	url = https://github.com/eello/elpring-di.git
+[submodule "elpring-web"]
+	path = elpring-web
+	url = https://github.com/eello/elpring-web.git
+[submodule "elpring-boot"]
+	path = elpring-boot
+	url = https://github.com/eello/elpring-boot.git
+[submodule "elpring-app"]
+	path = elpring-app
+	url = https://github.com/eello/elpring-app.git
