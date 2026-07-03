@@ -2,7 +2,7 @@
 
 | elpring-di (DI) | elpring-web (Web) | elpring-boot (Boot) |
 | :---: | :---: | :---: |
-| [![JitPack](https://jitpack.io/v/eello/elpring-di.svg)](https://jitpack.io/#eello/elpring-di) | [![JitPack](https://jitpack.io/v/eello/elpring-web.svg)](https://jitpack.io/#eello/elpring-web) | [![JitPack](https://jitpack.io/v/eello/elpring-boot.svg)](https://jitpack.io/#eello/elpring-boot) |
+| [![v1.5.0](https://jitpack.io/v/eello/elpring-di.svg)](https://jitpack.io/#eello/elpring-di) | [![v1.1.1](https://jitpack.io/v/eello/elpring-web.svg)](https://jitpack.io/#eello/elpring-web) | [![v1.1.1](https://jitpack.io/v/eello/elpring-boot.svg)](https://jitpack.io/#eello/elpring-boot) |
 
 `Elpring Framework`는 Spring Boot, Spring MVC, 그리고 IoC/DI 컨테이너의 내부 동작 메커니즘을 깊이 있게 이해하고 직접 학습하기 위해 순수 Java 환경에서 개발된 경량 커스텀 웹 프레임워크 생태계입니다.
 
